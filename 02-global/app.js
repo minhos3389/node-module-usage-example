@@ -55,10 +55,10 @@ function f3() {
 
 f1();
 // Trace
-//     at f3 (/Users/minhoseong/dream-coding/node/2-global/app.js:53:11)
-//     at f2 (/Users/minhoseong/dream-coding/node/2-global/app.js:48:3)
-//     at f1 (/Users/minhoseong/dream-coding/node/2-global/app.js:44:3)
-//     at Object.<anonymous> (/Users/minhoseong/dream-coding/node/2-global/app.js:56:1)
+//     at f3 (/Users/temp/coding/node/2-global/app.js:53:11)
+//     at f2 (/Users/temp/coding/node/2-global/app.js:48:3)
+//     at f1 (/Users/temp/coding/node/2-global/app.js:44:3)
+//     at Object.<anonymous> (/Users/minhoseong/coding/node/2-global/app.js:56:1)
 //     at Module._compile (node:internal/modules/cjs/loader:1254:14)
 //     at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
 //     at Module.load (node:internal/modules/cjs/loader:1117:32)
